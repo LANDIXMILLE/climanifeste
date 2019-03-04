@@ -38,6 +38,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), Développeur full stack
+* [Guy Bilisko].(https://github.com/gbilisko), Développeur réalisateur multimédia 
 * [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
